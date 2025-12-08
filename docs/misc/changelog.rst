@@ -19,6 +19,7 @@ New Features:
 
 Bug Fixes:
 ^^^^^^^^^^
+- Do not call ``forward()`` method directly in ``RecurrentPPO``
 
 Deprecations:
 ^^^^^^^^^^^^^
